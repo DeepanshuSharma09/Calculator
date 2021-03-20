@@ -1,0 +1,9 @@
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.deps.json
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.pdb
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.AssemblyInfoInputs.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.AssemblyInfo.cs
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.pdb
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Common.Infrastructure\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.csprojAssemblyReference.cache

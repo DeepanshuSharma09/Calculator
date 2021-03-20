@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BritInsurance.Calculator.Common.Infrastructure\BritInsurance.Calculator.Common.Infrastructure.csproj" />
+    <ProjectReference Include="..\BritInsurance.Calculator.Processor\BritInsurance.Calculator.Processor.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K21MjgmyZg3eJsxh2tFln14Lw8TuUGO6YjzEKlKG6NmQcQQFB2bFv+41XmDfXdvs1Un9SVSMhmo4OPRSA34k6g==",
+  "success": true,
+  "projectFilePath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deesharm8\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\deesharm8\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

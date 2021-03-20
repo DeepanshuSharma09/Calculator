@@ -1,0 +1,466 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Test\\BritInsurance.Calculator.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj",
+        "projectName": "BritInsurance.Calculator.Common.Infrastructure",
+        "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\deesharm8\\.nuget\\packages\\",
+        "outputPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deesharm8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\BritInsurance.Calculator.Handler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\BritInsurance.Calculator.Handler.csproj",
+        "projectName": "BritInsurance.Calculator.Handler",
+        "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\BritInsurance.Calculator.Handler.csproj",
+        "packagesPath": "C:\\Users\\deesharm8\\.nuget\\packages\\",
+        "outputPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deesharm8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj"
+              },
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Models\\BritInsurance.Calculator.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Models\\BritInsurance.Calculator.Models.csproj",
+        "projectName": "BritInsurance.Calculator.Models",
+        "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Models\\BritInsurance.Calculator.Models.csproj",
+        "packagesPath": "C:\\Users\\deesharm8\\.nuget\\packages\\",
+        "outputPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deesharm8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj",
+        "projectName": "BritInsurance.Calculator.Processor",
+        "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj",
+        "packagesPath": "C:\\Users\\deesharm8\\.nuget\\packages\\",
+        "outputPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deesharm8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Test\\BritInsurance.Calculator.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Test\\BritInsurance.Calculator.Test.csproj",
+        "projectName": "BritInsurance.Calculator.Test",
+        "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Test\\BritInsurance.Calculator.Test.csproj",
+        "packagesPath": "C:\\Users\\deesharm8\\.nuget\\packages\\",
+        "outputPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deesharm8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Common.Infrastructure\\BritInsurance.Calculator.Common.Infrastructure.csproj"
+              },
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\BritInsurance.Calculator.Handler.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\BritInsurance.Calculator.Handler.csproj"
+              },
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj"
+              },
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calulator.Api\\BritInsurance.Calculator.Api.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calulator.Api\\BritInsurance.Calculator.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calulator.Api\\BritInsurance.Calculator.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calulator.Api\\BritInsurance.Calculator.Api.csproj",
+        "projectName": "BritInsurance.Calculator.Api",
+        "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calulator.Api\\BritInsurance.Calculator.Api.csproj",
+        "packagesPath": "C:\\Users\\deesharm8\\.nuget\\packages\\",
+        "outputPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calulator.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deesharm8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\BritInsurance.Calculator.Handler.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Handler\\BritInsurance.Calculator.Handler.csproj"
+              },
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Models\\BritInsurance.Calculator.Models.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Models\\BritInsurance.Calculator.Models.csproj"
+              },
+              "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj": {
+                "projectPath": "C:\\Movies & Data\\Study\\BritInsurance\\BritInsurance.Calculator.Processor\\BritInsurance.Calculator.Processor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Azure.Functions.Extensions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

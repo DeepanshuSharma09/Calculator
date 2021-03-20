@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{4DD32C8D-4DA5-4176-9A99-58841107A370}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{01FD43AC-67A6-4FEE-AB9B-C8BBFD6795AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Processor", "Processor", "{1D2D8CF2-A6EA-4741-AB97-9B06323736F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BritInsurance.Calculator.Api", "BritInsurance.Calulator.Api\BritInsurance.Calculator.Api.csproj", "{DB18C01F-E159-421A-8948-3F952972832E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BritInsurance.Calculator.Models", "BritInsurance.Calculator.Models\BritInsurance.Calculator.Models.csproj", "{CB36BE3C-3413-4779-AF40-452B02E17A70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BritInsurance.Calculator.Processor", "BritInsurance.Calculator.Processor\BritInsurance.Calculator.Processor.csproj", "{8759AD6F-98BF-47F7-A427-F699EC4A04CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8C070218-79F7-45F8-A6A1-6FE144F8B37D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BritInsurance.Calculator.Common.Infrastructure", "BritInsurance.Calculator.Common.Infrastructure\BritInsurance.Calculator.Common.Infrastructure.csproj", "{C230FC13-4D7E-4A20-BC5D-F27067C86DD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Handlers", "Handlers", "{63082C5D-24CD-4FF1-AC88-632DFD267B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BritInsurance.Calculator.Handler", "BritInsurance.Calculator.Handler\BritInsurance.Calculator.Handler.csproj", "{C3F303DC-EFAB-40FC-9B63-6578731919E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BritInsurance.Calculator.Test", "BritInsurance.Calculator.Test\BritInsurance.Calculator.Test.csproj", "{6C624AF3-5900-4224-BD54-E774F361E72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB18C01F-E159-421A-8948-3F952972832E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB18C01F-E159-421A-8948-3F952972832E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB18C01F-E159-421A-8948-3F952972832E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB18C01F-E159-421A-8948-3F952972832E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB36BE3C-3413-4779-AF40-452B02E17A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB36BE3C-3413-4779-AF40-452B02E17A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB36BE3C-3413-4779-AF40-452B02E17A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB36BE3C-3413-4779-AF40-452B02E17A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8759AD6F-98BF-47F7-A427-F699EC4A04CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8759AD6F-98BF-47F7-A427-F699EC4A04CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8759AD6F-98BF-47F7-A427-F699EC4A04CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8759AD6F-98BF-47F7-A427-F699EC4A04CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C230FC13-4D7E-4A20-BC5D-F27067C86DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C230FC13-4D7E-4A20-BC5D-F27067C86DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C230FC13-4D7E-4A20-BC5D-F27067C86DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C230FC13-4D7E-4A20-BC5D-F27067C86DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F303DC-EFAB-40FC-9B63-6578731919E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F303DC-EFAB-40FC-9B63-6578731919E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F303DC-EFAB-40FC-9B63-6578731919E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F303DC-EFAB-40FC-9B63-6578731919E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C624AF3-5900-4224-BD54-E774F361E72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C624AF3-5900-4224-BD54-E774F361E72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C624AF3-5900-4224-BD54-E774F361E72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C624AF3-5900-4224-BD54-E774F361E72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB18C01F-E159-421A-8948-3F952972832E} = {4DD32C8D-4DA5-4176-9A99-58841107A370}
+		{CB36BE3C-3413-4779-AF40-452B02E17A70} = {4DD32C8D-4DA5-4176-9A99-58841107A370}
+		{8759AD6F-98BF-47F7-A427-F699EC4A04CC} = {1D2D8CF2-A6EA-4741-AB97-9B06323736F1}
+		{C230FC13-4D7E-4A20-BC5D-F27067C86DD7} = {8C070218-79F7-45F8-A6A1-6FE144F8B37D}
+		{C3F303DC-EFAB-40FC-9B63-6578731919E9} = {63082C5D-24CD-4FF1-AC88-632DFD267B65}
+		{6C624AF3-5900-4224-BD54-E774F361E72B} = {01FD43AC-67A6-4FEE-AB9B-C8BBFD6795AD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61107C70-CF9F-4AF8-8615-2C6FF0B24F09}
+	EndGlobalSection
+EndGlobal

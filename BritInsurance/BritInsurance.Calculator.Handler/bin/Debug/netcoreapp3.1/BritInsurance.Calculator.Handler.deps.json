@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BritInsurance.Calculator.Handler/1.0.0": {
+        "dependencies": {
+          "BritInsurance.Calculator.Common.Infrastructure": "1.0.0",
+          "BritInsurance.Calculator.Processor": "1.0.0"
+        },
+        "runtime": {
+          "BritInsurance.Calculator.Handler.dll": {}
+        }
+      },
+      "BritInsurance.Calculator.Common.Infrastructure/1.0.0": {
+        "runtime": {
+          "BritInsurance.Calculator.Common.Infrastructure.dll": {}
+        }
+      },
+      "BritInsurance.Calculator.Processor/1.0.0": {
+        "dependencies": {
+          "BritInsurance.Calculator.Common.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "BritInsurance.Calculator.Processor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BritInsurance.Calculator.Handler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BritInsurance.Calculator.Common.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BritInsurance.Calculator.Processor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

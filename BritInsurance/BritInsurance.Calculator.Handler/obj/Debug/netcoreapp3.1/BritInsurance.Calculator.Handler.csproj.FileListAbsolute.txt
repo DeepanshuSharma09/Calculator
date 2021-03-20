@@ -1,0 +1,14 @@
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.deps.json
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.pdb
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Processor.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Common.Infrastructure.pdb
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\bin\Debug\netcoreapp3.1\BritInsurance.Calculator.Processor.pdb
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.csprojAssemblyReference.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.AssemblyInfoInputs.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.AssemblyInfo.cs
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.csproj.CoreCompileInputs.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.csproj.CopyComplete
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Handler\obj\Debug\netcoreapp3.1\BritInsurance.Calculator.Handler.pdb

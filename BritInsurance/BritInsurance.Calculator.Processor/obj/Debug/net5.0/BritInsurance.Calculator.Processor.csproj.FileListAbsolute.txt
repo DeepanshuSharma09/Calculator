@@ -1,0 +1,12 @@
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\bin\Debug\net5.0\BritInsurance.Calculator.Processor.deps.json
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\bin\Debug\net5.0\BritInsurance.Calculator.Processor.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\bin\Debug\net5.0\ref\BritInsurance.Calculator.Processor.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\bin\Debug\net5.0\BritInsurance.Calculator.Processor.pdb
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\BritInsurance.Calculator.Processor.csprojAssemblyReference.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\BritInsurance.Calculator.Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\BritInsurance.Calculator.Processor.AssemblyInfoInputs.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\BritInsurance.Calculator.Processor.AssemblyInfo.cs
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\BritInsurance.Calculator.Processor.csproj.CoreCompileInputs.cache
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\BritInsurance.Calculator.Processor.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\ref\BritInsurance.Calculator.Processor.dll
+C:\Movies & Data\Study\BritInsurance\BritInsurance.Calculator.Processor\obj\Debug\net5.0\BritInsurance.Calculator.Processor.pdb
